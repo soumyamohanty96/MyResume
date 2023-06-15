@@ -1,4 +1,5 @@
 MyResume - Bootstrap Resume and Portfolio Template
+https://soumyamohanty96.github.io/MyResume/
 MyResume is a creative resume and portfolio Bootstrap template. It's best suited for digital professionals, designers, programmers, photographers, freelancers any other who wants to showcase his work online. MyResume is perfect to promote your work or services in easy and elegant way..
 
 MyResume is a fully customizable website template. You can easily edit each and every part of this website template according to your needs.
